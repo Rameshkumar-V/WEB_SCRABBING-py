@@ -1,6 +1,16 @@
 # WEB-SCRABBING
 Scrabbing data and automate with website using selenium and beautifull sould on python.
 
+**Technologies Used:**
+- Python
+- Selenium
+- Pandas
+- NumPy
+- Matplotlib
+- Pyfiglet
+- Termcolor
+
+
 
 1. **Effortless Automation:** Created a Python script using Selenium for seamless extraction of student result data from college websites.
 2. **Insightful Analysis:** Developed algorithms to compute overall percentages and detect pass/fail statuses, offering valuable performance insights.
